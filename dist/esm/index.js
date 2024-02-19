@@ -1,0 +1,2 @@
+import{jsxs as e,Fragment as t,jsx as n}from"react/jsx-runtime";import{useEffect as r}from"react";var i=function(i){return r((function(){var e=document.createElement("script");return e.src="http://localhost:8000/cmp"+window.location.search,e.async=!0,document.body.appendChild(e),function(){document.body.removeChild(e)}}),[]),e(t,{children:[n("input",{type:"hidden",id:"eh",name:"eh",value:i.apiKey}),n("input",{type:"hidden",id:"tv",name:"tv",value:i.page})]})};export{i as default};
+//# sourceMappingURL=index.js.map
