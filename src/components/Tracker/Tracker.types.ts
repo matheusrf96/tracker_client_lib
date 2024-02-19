@@ -1,4 +1,4 @@
 export interface TrackerProps {
     apiKey: string,
-    page: string | undefined,
+    page: string | undefined
 }
