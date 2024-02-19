@@ -1,3 +1,1 @@
-import Tracker from "./components/Tracker/Tracker";
-
-export default Tracker
+export { default } from './components/tracker/Tracker'
